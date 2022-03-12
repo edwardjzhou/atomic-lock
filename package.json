@@ -1,6 +1,6 @@
 {
   "name": "atomic-lock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node.js module for atomic locking",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,8 @@
   "files": [
     "./index.js"
   ],
-  "author": "featurerich1",
+  "author": "Edward <github.com/featurerich1>",
+  "homepage": "https://github.com/featurerich1/phone-carrier",
   "dependencies": {},
   "devDependencies": {}
 }
