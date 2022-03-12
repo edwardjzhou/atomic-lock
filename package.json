@@ -1,0 +1,22 @@
+{
+  "name": "atomic-lock",
+  "version": "1.0.0",
+  "description": "Node.js module for atomic locking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo no tests"
+  },
+  "keywords": [
+    "lock",
+    "mutex",
+    "atomics",
+    "compareExchange",
+    "parallelism"
+  ],
+  "files": [
+    "./index.js"
+  ],
+  "author": "featurerich1",
+  "dependencies": {},
+  "devDependencies": {}
+}
