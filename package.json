@@ -17,7 +17,7 @@
     "./index.js"
   ],
   "author": "Edward <github.com/featurerich1>",
-  "homepage": "https://github.com/featurerich1/phone-carrier",
+  "homepage": "https://github.com/featurerich1/atomic-lock",
   "dependencies": {},
   "devDependencies": {}
 }
